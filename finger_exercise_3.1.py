@@ -10,10 +10,12 @@
 import time
 
 
-startTime = time.time()
+
 x = int(input("Enter an integer :"))
 
-# Find integer root for integer pwr,  1, 2, 3, 4 or 5, so that x=root**pwr where x is of type integer
+startTime = time.time()
+
+# Find out what integer root for integer pwr,  1, 2, 3, 4 or 5, leads to x=root**pwr where x is of type integer.
 for pwr in range(1,6):
     root = x**(1/pwr)
     if root == x:
