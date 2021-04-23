@@ -11,7 +11,7 @@
 # else:
 #    print('All declared variables have even values.')
 
-# Without "List Comprehension" and "input control"
+# Without "List Comprehension" but "input control"
 numbers = []  # Declare a list numbers input
 odds = []  # Declare a list for odd numbers
 sequence = range(10)
