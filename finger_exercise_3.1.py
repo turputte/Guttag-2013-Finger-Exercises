@@ -16,7 +16,7 @@ x = int(input("Enter an integer :"))
 startTime = time.time()
 
 # Find out what integer root for integer pwr,  1, 2, 3, 4 or 5, leads to x=root**pwr where x is of type integer.
-# x=root**pwr leads to root=x**(1/pwr) 
+# x=root**pwr is equivalent to root=x**(1/pwr) 
 for pwr in range(1,6):
     root = x**(1/pwr)
     if root == x:
