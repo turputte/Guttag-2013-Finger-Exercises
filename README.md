@@ -1,4 +1,6 @@
 # Guttag-2013-Finger-Exercises
+
+
 # My finger exercise answers for Introduction to Computing and Programming using Python (Guttag, 2013)
 
 # Finger 2.2
@@ -16,6 +18,8 @@
 # prints two integers, root and pwr , such that 0 < pwr < 6 and root**pwr is 
 # equal to the integer entered by the user. If no such pair of integers exists,
 # it should #print a message to that effect.
+
+
 
 Finger 3.2
 
