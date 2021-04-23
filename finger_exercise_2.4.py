@@ -1,7 +1,10 @@
 #!/usr/bin/python
-# -*- coding: utf-8 -*-
-# Exercise:
-#
+# John Guttag - Introduction to computation and programming
+# using python
+# Chapter 2.4 Finger Exercise
+# Write a program that asks the user to input 10 integers
+# and then prints the largest odd number that was entered. 
+# If no odd number was entered, it should print a message to that effect.
 
 # Shortest solution with "List Comprehension":
 # numbers = [input('Enter a value: ') for i in range(10)]
