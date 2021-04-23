@@ -28,6 +28,6 @@ while True:
 nums = [x, y, z]
 odds = [i for i in nums if i % 2 != 0]
 if odds:
-    print(max(odds))
+    print('The largest odd value is ', max(odds))
 else:
     print('None of the numbers are odd!')
