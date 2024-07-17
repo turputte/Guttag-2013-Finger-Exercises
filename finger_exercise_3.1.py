@@ -9,8 +9,6 @@
 # print a message to that effect.
 import time
 
-
-
 x = int(input("Enter an integer :"))
 
 startTime = time.time()
